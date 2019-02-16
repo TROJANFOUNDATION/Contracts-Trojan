@@ -1,4 +1,4 @@
-contract ERC20BondingToken is Initializable, BondingCurveToken {
+contract TrojanREPBondingCurve is Initializable, BondingCurveToken {
 
   /* Reserve Token */
   ERC20 public reserveToken;
